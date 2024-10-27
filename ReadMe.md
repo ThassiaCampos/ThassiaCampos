@@ -1,5 +1,5 @@
 # 💫 About Me:
-Especialista em SEO técnico<br>Estudante de Análise e Desenvolvimento de Sistemas<br>Estou a procura de estágio em programação<br>Atualmente estou aprendendo Back-End<br>Quero ser uma desenvolvedora Full-Stack<br><br>
+Especialista em SEO técnico<br>Estudante de Análise e Desenvolvimento de Sistemas<br>A procura de estágio em programação<br>Atualmente aprendendo Back-End<br>Quero ser uma desenvolvedora Full-Stack<br><br>
 
 
 ## 🌐 Socials:
